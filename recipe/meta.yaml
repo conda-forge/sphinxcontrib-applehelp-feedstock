@@ -1,4 +1,4 @@
-{% set version = "1.0.2" %}
+{% set version = "1.0.4" %}
 
 package:
   name: sphinxcontrib-applehelp
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/s/sphinxcontrib-applehelp/sphinxcontrib-applehelp-{{ version }}.tar.gz
-  sha256: a072735ec80e7675e3f432fcae8610ecf509c5f1869d17e2eecff44389cdbc58
+  sha256: 828f867945bbe39817c210a1abfd1bc4895c8b73fcaade56d45357a348a07d7e
 
 build:
   number: 0
