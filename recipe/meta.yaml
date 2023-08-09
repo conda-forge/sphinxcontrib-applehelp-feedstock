@@ -5,7 +5,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/s/sphinxcontrib-applehelp/sphinxcontrib-applehelp-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/s/sphinxcontrib-applehelp/sphinxcontrib_applehelp-{{ version }}.tar.gz
   sha256: e58ca6b828d1c9ef3f8b51ff5bfe989507399977da1bb389b393199d45066357
 
 build:
